@@ -30,36 +30,32 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
+            "logo_width": 240,
             "link": ""
           }
         },
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 240,
             "link": ""
           }
         },
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo_width": 240,
             "link": ""
           }
         },
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_ThbXef": {
-          "type": "logo",
-          "disabled": true,
-          "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Elle.webp",
+            "logo_width": 240,
             "link": ""
           }
         }
@@ -68,8 +64,7 @@
         "logo_A964Gc",
         "logo_PwVxki",
         "logo_pCMLRf",
-        "logo_fjVfnh",
-        "logo_ThbXef"
+        "logo_fjVfnh"
       ],
       "settings": {
         "full_width": true,
