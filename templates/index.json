@@ -16,8 +16,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/banniere_pc.png",
-        "mobile_image": "shopify://shop_images/banniere_tel_0d2cfd32-62ff-4638-888f-d2f04ae1aeec.png",
+        "image": "shopify://shop_images/tttt.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +30,6 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/3_c099bfd9-39a0-426e-b71b-162fdf3f9e02.png",
             "logo_width": 120,
             "link": ""
           }
@@ -39,7 +37,6 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/4.png",
             "logo_width": 120,
             "link": ""
           }
@@ -47,7 +44,6 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/2_81de8eba-fc7a-4ebf-b2c4-c547168738c4.png",
             "logo_width": 120,
             "link": ""
           }
@@ -55,7 +51,6 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1_6d9331a3-b049-46d5-8433-aa97a63f0370.png",
             "logo_width": 120,
             "link": ""
           }
@@ -303,7 +298,6 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_1.webp",
             "column_size": "3",
             "title": "Laura.K",
             "heading_tag": "h4",
@@ -316,7 +310,6 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_3.webp",
             "column_size": "3",
             "title": "Marie.I",
             "heading_tag": "h4",
@@ -329,7 +322,6 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_2.jpg",
             "column_size": "3",
             "title": "Agathe.J",
             "heading_tag": "h4",
