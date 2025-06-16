@@ -11,6 +11,17 @@
   "sections": {
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "richtext_fhpD8E": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p></p><p>Résultats rapides, formule naturelle, expérience sans effort — le bronzage nouvelle génération est là</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_fhpD8E"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
