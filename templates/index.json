@@ -27,7 +27,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/tttt.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -41,7 +40,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
+            "logo": "shopify://shop_images/Vogue_1.avif",
             "logo_width": 240,
             "link": ""
           }
@@ -49,7 +48,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo": "shopify://shop_images/Comopolitan.avif",
             "logo_width": 240,
             "link": ""
           }
@@ -57,7 +56,7 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo": "shopify://shop_images/Marie_Claire_79c55804-794a-4f22-bbfc-74a09d2d6c7d.avif",
             "logo_width": 240,
             "link": ""
           }
@@ -65,8 +64,8 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Elle.webp",
-            "logo_width": 240,
+            "logo": "shopify://shop_images/allure-vector-logo.png",
+            "logo_width": 190,
             "link": ""
           }
         }
@@ -125,7 +124,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Template_section_benefice.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
